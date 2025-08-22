@@ -1,15 +1,15 @@
 [
   {
-    "id": "62148f5f40877cf8",
+    "id": "b2abe7076f12ae0e",
     "username": "admin",
-    "password": "mitho",
+    "password": "dogar",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
-    "id": "62148f5f40877cf8",
+    "id": "b2abe7076f12ae0e",
     "username": "admin",
-    "password": "mitho",
+    "password": "dogar",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   },

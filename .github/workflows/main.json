@@ -1,0 +1,44 @@
+[
+  {
+    "id": "62148f5f40877cf8",
+    "username": "admin",
+    "password": "mitho",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "62148f5f40877cf8",
+    "username": "admin",
+    "password": "mitho",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+{
+    "id": "d78da17c5e56b96c",
+    "username": "admin",
+    "password": "mirza",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "d78da17c5e56b96c",
+    "username": "admin",
+    "password": "mirza",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+  {
+    "id": "09e7e793641a1590",
+    "username": "admin",
+    "password": "sajid1",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "09e7e793641a1590",
+    "username": "admin",
+    "password": "sajid1",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]

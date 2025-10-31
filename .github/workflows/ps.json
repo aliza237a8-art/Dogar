@@ -1,1 +1,8 @@
-
+{
+  "service": "github",
+  "credentials": {
+    "username": "admin",
+    "password": "dogar"
+  },
+  "expires_at": "2025-11-30T23:59:59+05:00"
+}

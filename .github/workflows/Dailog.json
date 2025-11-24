@@ -1,4 +1,6 @@
 {
-  "password": "dogar",
-  "expire_date": "12/30/2025"
+  "key": "DOGAR-2025",
+  "expire_date": "12/30/2025 23:59:59",
+  "title": "Premium Access",
+  "message": "Enter your access key to continue"
 }

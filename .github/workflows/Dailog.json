@@ -1,6 +1,6 @@
 {
-  "key": "dogar",
-  "expire_date": "12/26/2026 24:59:59",
-  "title": "Premium Access",
-  "message": "Enter your access key to continue"
+    "key": "admin",
+    "expire_date": "12\/26\/2026 24:59:59",
+    "title": "Premium Access",
+    "message": "Enter your access key to continue"
 }
